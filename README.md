@@ -2,8 +2,8 @@
 
 > **课程**：计算机图形学 | **授课教师**：张鸿文老师  
 > **实验名称**：SMPL 模型的 Linear Blend Skinning 可视化  
-> **课程主页**：[https://zhanghongwen.cn/cg](https://zhanghongwen.cn/cg)
-> **姓名**：王若涵
+> **课程主页**：[https://zhanghongwen.cn/cg](https://zhanghongwen.cn/cg) 
+> **姓名**：王若涵 
 > **学号**：202411081042
 
 ---
